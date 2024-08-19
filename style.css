@@ -1,0 +1,13 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+/*
+1a3c4d, rgb(26, 60, 77) -> blue niti
+f25b5b, rgb(242, 91, 91) -> red niti
+*/
+
+.nav-link:hover {
+    background-color: rgba(245, 245, 245, 0.192);
+}
